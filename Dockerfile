@@ -1,11 +1,11 @@
 # 使用微軟官方的 .NET 執行環境映像檔
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
 
 # 使用 SDK 映像檔來編譯程式碼
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY ["BulletinBoard.csproj", "."]
 RUN dotnet restore "./BulletinBoard.csproj"
