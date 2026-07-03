@@ -1,0 +1,127 @@
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/appsettings.Development.json
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/appsettings.json
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/BulletinBoard
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/BulletinBoard.deps.json
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/BulletinBoard.runtimeconfig.json
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/BulletinBoard.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/BulletinBoard.pdb
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/MySqlConnector.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.csproj.AssemblyReference.cache
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.AssemblyInfoInputs.cache
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.AssemblyInfo.cs
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.csproj.CoreCompileInputs.cache
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.MvcApplicationPartsAssemblyInfo.cs
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.MvcApplicationPartsAssemblyInfo.cache
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/staticwebassets.build.json
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/staticwebassets.development.json
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/scopedcss/bundle/BulletinBoard.styles.css
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.csproj.CopyComplete
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/refint/BulletinBoard.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.pdb
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/BulletinBoard.genruntimeconfig.cache
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/obj/Debug/net6.0/ref/BulletinBoard.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Humanizer.dll
+/Users/louisli/Projects/Work/Dongfeng/BulletinBoard/BulletinBoard/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\appsettings.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.staticwebassets.endpoints.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.exe
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.deps.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.runtimeconfig.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.pdb
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.AssemblyInfo.cs
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\scopedcss\bundle\BulletinBoard.styles.css
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\Bulletin.30E71F93.Up2Date
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\refint\BulletinBoard.dll
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.pdb
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.genruntimeconfig.cache
+C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\ref\BulletinBoard.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\appsettings.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.staticwebassets.endpoints.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.exe
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.deps.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.runtimeconfig.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\BulletinBoard.pdb
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.AssemblyInfo.cs
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\scopedcss\bundle\BulletinBoard.styles.css
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\Bulletin.30E71F93.Up2Date
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\refint\BulletinBoard.dll
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.pdb
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\BulletinBoard.genruntimeconfig.cache
+C:\Users\user\OneDrive - 佛光大學\桌面\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\obj\Debug\net6.0\ref\BulletinBoard.dll

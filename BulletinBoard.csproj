@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.16">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.3" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EditorConfigFiles Remove="C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\Controllers\.editorconfig" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="C:\Users\user\OneDrive - 佛光大學\文件\BulletinBoard-69a2fe22-5321-4321-97eb-c5528b4ba799\BulletinBoard\BulletinBoard\Controllers\.editorconfig" />
+    </ItemGroup>
+
+</Project>
