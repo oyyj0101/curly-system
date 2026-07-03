@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var connectionString = builder.Configuration.GetValue<string>("ConnectionString");
 builder.Services.AddDbContext<BulletinBoardContext>(options =>
-    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString))
+    options.UseNpgsql("postgresql://oyyj:KY7s7JhCMtvxV6AlD2OlIXWuuSLBed6h@dpg-d93hr0daeets73doqirg-a/bulletin_db_g59t")
 );
 
 var app = builder.Build();
