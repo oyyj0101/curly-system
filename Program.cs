@@ -16,6 +16,21 @@ builder.Services.AddDbContext<BulletinBoardContext>(options =>
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<BulletinBoardContext>();
+        context.Database.EnsureCreated(); // 關鍵：如果資料表不存在，就自動在雲端建立！
+    }
+    catch (Exception ex)
+    {
+        //記錄錯誤，防止因為資料庫暫時沒連上導致專案完全開不起來
+        Console.WriteLine($"自動建立資料庫失敗: {ex.Message}");
+    }
+}
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
