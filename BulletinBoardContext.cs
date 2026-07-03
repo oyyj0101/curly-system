@@ -23,6 +23,14 @@ namespace BulletinBoard.Entities
 
             // 強制定向大寫表格！
             modelBuilder.Entity<Post>().ToTable("Post");
+
+            // 2. 🎯 強制對應大寫的欄位名稱（避免 PostgreSQL 自動變小寫）
+            modelBuilder.Entity<Post>(entity =>
+            {
+                entity.Property(e => e.Id).HasColumnName("Id");
+                entity.Property(e => e.Title).HasColumnName("Title");
+                entity.Property(e => e.Content).HasColumnName("Content");
+            });
         }
     }
 }
