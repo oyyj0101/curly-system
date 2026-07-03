@@ -4,6 +4,7 @@ using BulletinBoard.Models;
 using System.Text.Json;
 using System.Text;
 using System.Net.Http.Headers;
+using Microsoft.EntityFrameworkCore;
 
 namespace BulletinBoard.Controllers
 {
@@ -12,6 +13,13 @@ namespace BulletinBoard.Controllers
     public class LineBotController : ControllerBase
     {
         private readonly string _channelAccessToken = "oU6vzFdBk0+B8SqEg34N5cB2/JInDe7t727gFPEB5paqNMu9g1fv2qibhZ/emt5+JHrb6Apo45UVtIuCxe+Cj/cB6KirDcN82vkuDZlwVkv7tn8irTX5nAv14ii+xY/wJHIoXV0A/67+mQapBLnJHAdB04t89/1O/w1cDnyilFU=";
+
+        private readonly BulletinBoardContext _context;     //宣告資料庫上下文
+
+        public LineBotController(BulletinBoardContext context)      //建構子注入資料庫上下文
+        {
+            _context = context;
+        }
 
         [HttpPost]
         public async Task<IActionResult> Post()
@@ -22,7 +30,6 @@ namespace BulletinBoard.Controllers
             using var doc = JsonDocument.Parse(json);
             var root = doc.RootElement;
 
-            // 【防禦機制 1】如果 LINE 只是來 Verify 驗證的（空的封包），直接回傳 200 OK
             if (!root.TryGetProperty("events", out var eventsProp) || eventsProp.GetArrayLength() == 0)
             {
                 return Ok();
@@ -37,10 +44,23 @@ namespace BulletinBoard.Controllers
                     string userText = messageProp.GetProperty("text").GetString() ?? "";
                     string replyToken = firstEvent.GetProperty("replyToken").GetString() ?? "";
 
-                    // 【防禦機制 2】改用寫死的假資料測試，不連本機資料庫
-                    string replyMessage = $"你說了：{userText}！不關機測試成功！";
+                    string replyMessage = "";
 
-                    // 🎯 【關鍵修正】把原本前面的 // 拿掉，真正啟用發送功能！
+                    //資料表Title與使用者輸入內容模糊比對，回復Content內容
+                    var matchedPost = await _context.Post
+                        .FirstOrDefaultAsync(p => EF.Functions.ILike(p.Title, $"%{userText}%"));
+
+                    if (matchedPost != null)
+                    {
+                        replyMessage = matchedPost.Content;
+                    }
+                    else
+                    {
+                        replyMessage = "抱歉，找不到相關的文章。";
+
+                    }
+
+                    // 發送回復給Line
                     await ReplyToLineAsync(replyToken, replyMessage);
                 }
             }
