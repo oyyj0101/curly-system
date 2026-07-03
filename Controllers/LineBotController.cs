@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using BulletinBoard.Entities; // 確保引用了你的資料庫實體命名空間
-using BulletinBoard.Models;   // 引用剛剛建立的 DTO 命名空間
+using BulletinBoard.Entities;
+using BulletinBoard.Models;
 using System.Text.Json;
 using System.Text;
 using System.Net.Http.Headers;
@@ -8,14 +8,13 @@ using System.Net.Http.Headers;
 namespace BulletinBoard.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")] // 確保網址對接是 /api/LineBot
+    [Route("api/[controller]")]
     public class LineBotController : ControllerBase
     {
         private readonly string _channelAccessToken = "oU6vzFdBk0+B8SqEg34N5cB2/JInDe7t727gFPEB5paqNMu9g1fv2qibhZ/emt5+JHrb6Apo45UVtIuCxe+Cj/cB6KirDcN82vkuDZlwVkv7tn8irTX5nAv14ii+xY/wJHIoXV0A/67+mQapBLnJHAdB04t89/1O/w1cDnyilFU=";
-        private readonly BulletinBoardContext _context; 
 
         [HttpPost]
-        public async Task<IActionResult> Post() // 習慣上改成 Post()
+        public async Task<IActionResult> Post()
         {
             using var reader = new StreamReader(Request.Body);
             var json = await reader.ReadToEndAsync();
@@ -41,12 +40,12 @@ namespace BulletinBoard.Controllers
                     // 【防禦機制 2】改用寫死的假資料測試，不連本機資料庫
                     string replyMessage = $"你說了：{userText}！不關機測試成功！";
 
-                    // TODO: 這裡放你原本回傳給 LINE 的 HttpClient 發送代碼 (ReplyMessage)
-                    // await ReplyToLineAsync(replyToken, replyMessage); 
+                    // 🎯 【關鍵修正】把原本前面的 // 拿掉，真正啟用發送功能！
+                    await ReplyToLineAsync(replyToken, replyMessage);
                 }
             }
 
-            return Ok(); // 確保一定回傳 200 OK
+            return Ok();
         }
 
         // 這個方法用來回覆 LINE 的訊息
@@ -60,8 +59,8 @@ namespace BulletinBoard.Controllers
                 replyToken = replyToken,
                 messages = new[]
                 {
-                new { type = "text", text = message }
-            }
+                    new { type = "text", text = message }
+                }
             };
 
             var jsonPayload = JsonSerializer.Serialize(requestBody);
