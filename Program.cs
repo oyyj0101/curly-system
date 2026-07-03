@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var connectionString = builder.Configuration.GetValue<string>("ConnectionString");
 builder.Services.AddDbContext<BulletinBoardContext>(options =>
-    options.UseNpgsql("Host=dpg-d93hr0daeets73doqirg-a.singapore-postgres.render.com;Database=bulletin_db_g59t;Username=oyyj;Password=KY7s7JhCMtvxV6A1D2OlIXWuuSLBed6h;Port=5432;Ssl Mode=Require;Trust Server Certificate=true;")
+    options.UseNpgsql("Host=dpg-d93hr0daeets73doqirg-a.singapore-postgres.render.com;Database=bulletin_db_g59t;Username=oyyj;Password=KY7s7JhCMtvxV6AlD2OlIXWuuSLBed6h;Port=5432;Ssl Mode=Require;Trust Server Certificate=true;")
 );
 
 var app = builder.Build();
