@@ -11,8 +11,8 @@ namespace BulletinBoard.Controllers
     [Route("api/[controller]")] // 確保網址對接是 /api/LineBot
     public class LineBotController : ControllerBase
     {
-        // 暫時把資料庫註解掉，或留著但不使用它
-        // private readonly BulletinBoardContext _context; 
+        private readonly string _channelAccessToken = "oU6vzFdBk0+B8SqEg34N5cB2/JInDe7t727gFPEB5paqNMu9g1fv2qibhZ/emt5+JHrb6Apo45UVtIuCxe+Cj/cB6KirDcN82vkuDZlwVkv7tn8irTX5nAv14ii+xY/wJHIoXV0A/67+mQapBLnJHAdB04t89/1O/w1cDnyilFU=";
+        private readonly BulletinBoardContext _context; 
 
         [HttpPost]
         public async Task<IActionResult> Post() // 習慣上改成 Post()
@@ -47,6 +47,28 @@ namespace BulletinBoard.Controllers
             }
 
             return Ok(); // 確保一定回傳 200 OK
+        }
+
+        // 這個方法用來回覆 LINE 的訊息
+        private async Task ReplyToLineAsync(string replyToken, string message)
+        {
+            var client = new HttpClient();
+            client.DefaultRequestHeaders.Add("Authorization", $"Bearer {_channelAccessToken}");
+
+            var requestBody = new
+            {
+                replyToken = replyToken,
+                messages = new[]
+                {
+                new { type = "text", text = message }
+            }
+            };
+
+            var jsonPayload = JsonSerializer.Serialize(requestBody);
+            var content = new StringContent(jsonPayload, Encoding.UTF8, "application/json");
+
+            // 發送到 LINE 官方 API 節點
+            await client.PostAsync("https://api.line.me/v2/bot/message/reply", content);
         }
     }
 }
